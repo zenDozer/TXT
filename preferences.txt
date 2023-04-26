@@ -1,0 +1,5 @@
+Film			: The Social Network
+TV series 		: Silicon Valley
+Favorite food 	: Borsch
+Favorite season	: Spring
+Country			: USA
