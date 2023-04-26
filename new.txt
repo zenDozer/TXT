@@ -1,0 +1,4 @@
+fio		: Malko Oleksandr
+age		: 42
+pet		: 1
+salary	: 750
